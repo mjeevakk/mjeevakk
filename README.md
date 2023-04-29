@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @mjeevakk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-mjeevakk/mjeevakk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Dash Board link:https://drive.google.com/file/d/1pxXWZhgpUDllXd-3q0mxASxeLVrcnQBg/view?usp=drivesdk
+Story link:https://drive.google.com/file/d/1prqfE0obcbEBGD1aRrP37zXldo93TL32/view?usp=drivesdk
+Video link:https://drive.google.com/file/d/1qYg0EOSCetVJ-gy3Nn-V3RM5h_xIrQL0/view?usp=drivesdk
